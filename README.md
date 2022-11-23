@@ -3,7 +3,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 
-<p align="center"> <a href="https://twitter.com/athirarajan23" target="blank"><img src="https://img.shields.io/twitter/follow/athirarajan23?logo=twitter&style=for-the-badge" alt="athirarajan23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/athirarajan23" target="blank"><img src="https://img.shields.io/twitter/follow/athirarajan23?logo=twitter&style=for-the-badge" alt="athirarajan23" /></a> </p>
 
 - 🔭 I’m currently studying **Btech(2nd year)**
 
