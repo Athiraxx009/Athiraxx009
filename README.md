@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/athirarajan23" target="blank"><img src="https://img.shields.io/twitter/follow/athirarajan23?logo=twitter&style=for-the-badge" alt="athirarajan23" /></a> </p>
 
-- 🔭 I’m currently studying **Btech(2nd year)**
+- 🔭 I’m currently studying **Btech(4nd year)**
 
 - 📫 How to reach me **rajanathira572@gmail.com**
 
